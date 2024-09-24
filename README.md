@@ -19,5 +19,5 @@
   <img width="400" height="250" src="https://github.com/user-attachments/assets/448712a6-88d8-4ff8-822b-60ff4d768062">
 </p>
 
-
+Получилась хорошо работающая нейросеть, несмотря на такой скромный датасет
 
